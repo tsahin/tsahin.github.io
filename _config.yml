@@ -1,0 +1,8 @@
+title: Tuğba Şahin | Blog
+email: inamoltugba@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ktü de bilgisayar mühendisliği okuyorum.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tsahin.github.io" # the base hostname & protocol for your site
+github_username:  tsahin
+markdown: kramdown

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuğba Şahin | Blog</title>
+    <description>Ktü de bilgisayar mühendisliği okuyorum.
+</description>
+    <link>http://tsahin.github.io/</link>
+    <atom:link href="http://tsahin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Dec 2015 14:58:30 +0200</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 14:58:30 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Blog</title>
+        <description>&lt;p&gt;Finaller yaklaştıgı normalde olanın dışında bu sefer stres yapmayım çalışcaktım …
+Öyle de oldu ;sonra hepsi AA sonra ben aşırı mutlu bir şekilde  evime döndüm .&lt;/p&gt;
+
+&lt;p&gt;Sonra  mutlu …&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Dec 2015 13:58:14 +0200</pubDate>
+        <link>http://tsahin.github.io/bur%C3%A7lar/2015/12/13/tugba.html</link>
+        <guid isPermaLink="true">http://tsahin.github.io/bur%C3%A7lar/2015/12/13/tugba.html</guid>
+        
+        
+        <category>Burçlar</category>
+        
+      </item>
+    
+  </channel>
+</rss>
